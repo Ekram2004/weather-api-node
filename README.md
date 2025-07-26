@@ -33,5 +33,7 @@ Visit in browser or API client: http://localhost:3000/weather?city=Addis Ababa
 
 <img width="1920" height="1080" alt="Screenshot 2025-07-26 044521" src="https://github.com/user-attachments/assets/2a569bff-9976-4455-90fd-65903d0b1ee4" />
 
+https://weather-api-node-production.up.railway.app/weather?city=Addis%20Ababa
+
 License
 MIT — feel free to modify and use!
